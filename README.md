@@ -20,3 +20,12 @@ My tweets https://twitter.com/azolyak
 My work history https://www.linkedin.com/in/azolyak
 
 My photos https://www.instagram.com/azolyak/ and https://www.flickr.com/photos/x-scooby/
+
+## Dev Tools
+
+VS Code
+* Prettier Code Formatter
+
+Postman
+
+Slack
