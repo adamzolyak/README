@@ -28,6 +28,7 @@ VS Code
 * Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 * Markdown Preview Enhanced https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
 * Ayu Adaptive Theme https://marketplace.visualstudio.com/items?itemName=ccy.ayu-adaptive
+* Material Icon Theme https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
 Postman
 
