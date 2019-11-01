@@ -7,7 +7,7 @@ Inspried by https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategi
 
 ## About Me
 
-Adam Zolyak is passionate about helping people to have more meaningful work and relationships in their lives.  Adam pursues this passion as a product manager, developer, speaking, writing, and hackathons. 
+Adam Zolyak is passionate about helping people to have more meaningful work and relationships in their lives.  Adam pursues this passion as a product management, maker, speaking, writing, and hackathons. 
 
 ## Learning More
 
