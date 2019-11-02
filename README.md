@@ -10,6 +10,8 @@ Inspried by https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategi
 Adam Zolyak is passionate about helping people to have more meaningful work and relationships in their lives.  Adam pursues this passion as a product manager, maker, speaking, writing, and hackathons. 
 
 ## My Principles
+* **Be Intentional and Focused**, say yes to the most valuable things and no or "maybe later" to the rest, limit work in progress, work in small increments, minimize queues / handoffs / dependencies
+
 • **Bias to action**, achieve small incremental wins, learn by doing, and iterate as needed to achieve outcomes; don’t wait for perfect answers 
 
 • **Be curious**, lead through asking questions and assume nothing to learn how to best serve others (co-workers, business, customers, people)
