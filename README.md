@@ -17,11 +17,11 @@ Achieve small incremental wins, learn by doing, and iterate as needed to achieve
 ### Be Intentional
 Say yes to the most valuable things and no or "maybe later" to the rest. 
 
-### Be Curious
-Lead through asking questions and assume nothing to learn how to best serve others (co-workers, business, customers, people)
-
 ### Win, Lose, and Learn Fast
 Have more opportunities for winning and learning by limit work in progress, work in small increments, minimize queues / handoffs / dependencies, get feedback and measure impact
+
+### Be Curious
+Lead through asking questions and assume nothing to learn how to best serve others (co-workers, business, customers, people).
 
 ### Be Present
 Focus on others over me, actively listen, and be slow and thoughtful before responding
