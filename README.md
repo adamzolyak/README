@@ -12,15 +12,15 @@ Adam Zolyak is passionate about helping people to have more meaningful work and 
 ## My Principles
 * **Be Intentional and Focused**, say yes to the most valuable things and no or "maybe later" to the rest, limit work in progress, work in small increments, minimize queues / handoffs / dependencies
 
-• **Bias to action**, achieve small incremental wins, learn by doing, and iterate as needed to achieve outcomes; don’t wait for perfect answers 
+* **Bias to action**, achieve small incremental wins, learn by doing, and iterate as needed to achieve outcomes; don’t wait for perfect answers 
 
-• **Be curious**, lead through asking questions and assume nothing to learn how to best serve others (co-workers, business, customers, people)
+* **Be curious**, lead through asking questions and assume nothing to learn how to best serve others (co-workers, business, customers, people)
 
-• **Be present**, focus on others over me, actively listen, and be slow and thoughtful before responding
+* **Be present**, focus on others over me, actively listen, and be slow and thoughtful before responding
 
-• **Be of service to people**, connect, collaborate, and partner with people to understand their needs and help to achieve them
+* **Be of service to people**, connect, collaborate, and partner with people to understand their needs and help to achieve them
 
-• **Be authentic and vulnerable**, bring the whole me to work and dare to deeply connect with other people even if that sometimes means having difficult conversations or having strong opinions loosely held 
+* **Be authentic and vulnerable**, bring the whole me to work and dare to deeply connect with other people even if that sometimes means having difficult conversations or having strong opinions loosely held 
 
 ## My Strengths
 
