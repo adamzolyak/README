@@ -14,9 +14,9 @@ Adam Zolyak is passionate about helping people to have more meaningful work and 
 
 * **Be Intentional**, say yes to the most valuable things and no or "maybe later" to the rest. 
 
-* **Win, Lose, and Learn Fast**, have more opportunities at bat by limit work in progress, work in small increments, minimize queues / handoffs / dependencies, get feedback and measure impact
-
 * **Be curious**, lead through asking questions and assume nothing to learn how to best serve others (co-workers, business, customers, people)
+
+* **Win, Lose, and Learn Fast**, have more opportunities at bat by limit work in progress, work in small increments, minimize queues / handoffs / dependencies, get feedback and measure impact
 
 * **Be present**, focus on others over me, actively listen, and be slow and thoughtful before responding
 
