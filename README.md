@@ -32,6 +32,9 @@ Connect, collaborate, and partner with people to understand their needs and help
 ### Be Authentic and Vulnerable
 Bring the whole me to what I do and dare to deeply connect with other people even if that sometimes means having difficult conversations or having strong opinions loosely held 
 
+### Play
+Keep it light; smile, joke, play!  It's an important part of being a human and connecting with other people.
+
 ## My Strengths
 
 From [Strengths Finder](https://www.strengthsmining.com/gallup-strengthsfinder/):
