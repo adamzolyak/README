@@ -34,17 +34,20 @@ Bring the whole me to what I do and dare to deeply connect with other people eve
 
 ## My Strengths
 
-From Strengths Finder
+From [Strengths Finder](https://www.strengthsmining.com/gallup-strengthsfinder/):
 
-* [Restorative](https://www.strengthsmining.com/gallup-strengthsfinder/executing-strengths/restorative/) People strong in the Restorative theme are adept at dealing with problems. They are good at figuring out what is wrong and resolving it.
-
-* [Strategic](https://www.strengthsmining.com/gallup-strengthsfinder/strategic-thinking/strategic/) People especially talented in the Strategic theme create alternative ways to proceed. Faced with any given scenario, they can quickly spot the relevant patterns and issues.
-
-* [Connectedness](https://www.strengthsmining.com/gallup-strengthsfinder/relating-strengths/connectedness/) People strong in the Connectedness theme have faith in the links between all things. They believe there are few coincidences and that almost every event has a reason.  They are often bridge builders.
-
-* [Ideation](https://www.strengthsmining.com/gallup-strengthsfinder/strategic-thinking/ideation/) People strong in the Ideation theme are fascinated by ideas. They can find connections between seemingly disparate phenomena.
-
-* [Command](https://www.strengthsmining.com/gallup-strengthsfinder/influencing-strengths/command/) People strong in the Command theme have presence. They can take control of a situation and make decisions.
+| Rank | Strength | Theme | Description |
+| ---- | --- | --- | --- |
+| 1 | Strategic | Strategic Thinking | People especially talented in the Strategic theme create alternative ways to proceed. Faced with any given scenario, they can quickly spot the relevant patterns and issues. |
+| 2 | Connectedness | Relationship Building | People strong in the Connectedness theme have faith in the links between all things. They believe there are few coincidences and that almost every event has a reason. | 
+| 3 | Relator | Relationship Building | People who are strong in the Relator theme enjoy close relationships with others. They find deep satisfaction in working hard with friends to achieve a goal. | 
+| 4 | Ideation | Strategic Thinking | People strong in the Ideation theme are fascinated by ideas. They are able to find connections between seemingly disparate phenomena. | 
+| 5 | Context | Strategic Thinking | People strong in the Context theme enjoy thinking about the past. They understand the present by researching its history. | 
+| 6 | Learner | Strategic Thinking | People especially talented in the Learner theme have a great desire to learn and want to continuously improve. In particular, the process of learning, rather than the outcome, excites them. | 
+| 7 | Command | Influencing | People strong in the Command theme have presence. They can take control of a situation and make decisions. |
+| 8 | Arranger | Executing | People strong in the Arranger theme can organize, but they also have a flexibility that complements this ability. They like to figure out how all of the pieces and resources can be arranged for maximum productivity. | 
+| 9 | Communication | Influencing | People strong in the Communication theme generally find it easy to put their thoughts into words. They are good conversationalists and presenters. | 
+| 10 | Achiever | Executing | It is common for people with theStrengthsfinder Achiever theme to feel the need to start each day new and the accomplishments from yesterday no longer matter.  | 
 
 ## Working With Me
 
