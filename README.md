@@ -12,7 +12,7 @@ Adam Zolyak is passionate about helping people to have more meaningful work and 
 ## My Principles
 
 ### Bias to Action
-Achieve small incremental wins, learn by doing, and iterate as needed to achieve outcomes; don’t wait for perfect answers 
+Achieve small incremental wins, learn by doing, and iterate as needed to achieve outcomes; don’t wait for perfect answers, have strong opinions loosley held
 
 ### Be Intentional
 Say yes to the most valuable things and no or "maybe later" to the rest. 
@@ -21,7 +21,7 @@ Say yes to the most valuable things and no or "maybe later" to the rest.
 Have more opportunities for winning and learning by limit work in progress, work in small increments, minimize queues / handoffs / dependencies, get feedback and measure impact
 
 ### Be Curious
-Lead through asking questions and assume nothing to learn how to best serve others (co-workers, business, customers, people).
+Lead through asking questions and starting with an egoless mindset to learn how to best serve others (co-workers, business, customers, people).
 
 ### Be Present
 Focus on others over me, actively listen, and be slow and thoughtful before responding
