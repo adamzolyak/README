@@ -52,6 +52,10 @@ From [Strengths Finder](https://www.strengthsmining.com/gallup-strengthsfinder/)
 | 9 | Communication | Influencing | People strong in the Communication theme generally find it easy to put their thoughts into words. They are good conversationalists and presenters. | 
 | 10 | Achiever | Executing | It is common for people with theStrengthsfinder Achiever theme to feel the need to start each day new and the accomplishments from yesterday no longer matter.  | 
 
+## My Type
+
+I am an [Enneagram Type 7 with an 8 Wing](https://www.enneagraminstitute.com/type-7). 
+
 ## Working With Me
 
 ### Conditions I like to work in
