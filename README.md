@@ -54,7 +54,7 @@ From [Strengths Finder](https://www.strengthsmining.com/gallup-strengthsfinder/)
 
 ## My Type
 
-I am an [Enneagram Type 7 with an 8 Wing](https://www.enneagraminstitute.com/type-7). 
+I am an [Enneagram Type 7 with an 8 Wing](https://www.enneagraminstitute.com/type-7) and an INTJ.
 
 ## Working With Me
 
