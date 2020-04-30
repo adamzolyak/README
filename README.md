@@ -7,30 +7,30 @@ Inspried by https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategi
 
 ## About Me
 
-Adam Zolyak is passionate about helping people to have more meaningful work and relationships in their lives.  Adam pursues this passion as a product manager, maker, speaking, writing, and hackathons. 
+Adam Zolyak is passionate about helping people to have more meaningful work and relationships in their lives.  Adam pursues this passion as a product manager, developer, maker, speaker, writer, and hacker. 
 
 ## My Principles
 
 ### Bias to Action
-Achieve small incremental wins, learn by doing, and iterate as needed to achieve outcomes; don’t wait for perfect answers, have strong opinions loosley held
+Achieve small incremental wins, learn by doing, and iterating as needed to achieve objectives; don’t wait for perfect answers, have strong opinions loosley held.
 
 ### Be Intentional
-Say yes to the most valuable things and no or "maybe later" to the rest. 
+Know your objectives and key results.  Say yes to the most valuable things and no or "maybe later" to the rest.  Be transparent and candid with other people so that your intentions are clear.
 
 ### Win, Lose, and Learn Fast
-Have more opportunities for winning and learning by limit work in progress, work in small increments, minimize queues / handoffs / dependencies, get feedback and measure impact
+Have more opportunities for winning and learning by identifying a clear objectives and key results up front, identifying multiple options and experiment, limiting work in progress and focusing, working on the smallest possible increment needed, minimize queues / handoffs / dependencies, and getting feedback and measuring impact.
 
 ### Be Curious
-Lead through asking questions and starting with an egoless mindset to learn how to best serve others (co-workers, business, customers, people).
+Lead through asking questions and starting with an egoless mindset to learn how to best serve others (co-workers, business, customers, people).  Identify multiple options and experiment to find the best path forward.  Be willing to fail and find joy in the learning therein.
 
 ### Be Present
-Focus on others over me, actively listen, and be slow and thoughtful before responding
+Be present with other people and with myself through active listening, active feeling, active being, and being slow and thoughtful before responding.
 
 ### Be of Service to Others
-Connect, collaborate, and partner with people to understand their needs and help to achieve them
+Connect with people to understand who they are, serving them and co-creating with them.  Treat everyone as they truely are - whole and capable.
 
 ### Be Authentic and Vulnerable
-Bring the whole me to what I do and dare to deeply connect with other people even if that sometimes means having difficult conversations or having strong opinions loosely held 
+Dare to bring the whole me to being and doing do, and dare to deeply connect with other people even if that sometimes means having difficult conversations or things getting weird.  There is tremendous possbility for joy (as well as tribulation) in being authentic and vulnerable! 
 
 ### Play
 Keep it light; smile, joke, play!  It's an important part of being a human and connecting with other people.
