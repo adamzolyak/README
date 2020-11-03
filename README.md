@@ -1,4 +1,4 @@
-#  README for Adam Zolyak 👱
+#  README for Adam Zolyak 👨
 
 ## Overview
 A read me for Adam Zolayk.  
