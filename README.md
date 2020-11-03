@@ -98,13 +98,11 @@ I am an [Enneagram Type 7 with an 8 Wing](https://www.enneagraminstitute.com/typ
 
 My speaking and workshop history https://github.com/adamzolyak/speaking
 
-My public journaling (writing) https://medium.com/@adam.zolyak
+My public journaling (writing) https://medium.com/@adam.zolyak and https://twitter.com/azolyak
 
 My software + hardware projects http://www.tinkurlab.com/ and http://www.toolsforhumanity.io/
 
-My code https://github.com/adamzolyak and https://github.com/tinkurlab
-
-My tweets https://twitter.com/azolyak
+My code https://github.com/adamzolyak and https://github.com/tinkurlab 
 
 My stickers https://www.redbubble.com/people/TinkurLab/shop (some of them anyway)
 
