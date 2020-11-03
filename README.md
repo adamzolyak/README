@@ -62,18 +62,6 @@ I am an [Enneagram Type 7 with an 8 Wing](https://www.enneagraminstitute.com/typ
 
 * I like the right place for the right type of work.  Open spaces for connecting and collaborating with other people, quiet places for focus work.  I often go to a coffee shop, conference room, or work from home when I need to focus.  I also often wear headphones listening to white noise or wordless music when I’m focusing.  
 
-### The times/hours I like to work
-
-* I normally work from 8-5 pm MT, taking breaks throughout the day to recharge my energy by socially connecting with other people, walking, reading, and eating.
-
-* I try to do learning / thinking / synthesizing work in the mornings and making / collaborating work in the afternoons.
-
-### Best ways to communicate with me
-
-* I check email, text messages, Slack, etc a few times per day.  I minimize push notifications.  If something is urgent, call me or find me in person.
-
-* My calendar is up to date.  Feel free to schedule time; however, I prefer meetings as working sessions.  Most things can be communicated via notes, emails, etc; let me decide if I need more information.  Please don’t schedule over an existing meeting without asking me.
-
 ### The ways I like to receive feedback
 
 * I love learning about feedback and new options to help improve myself so that I can be of better service to myself and others.  Feedback can be hard to receive, but it's such a service to give it to someone.
