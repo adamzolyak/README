@@ -1,30 +1,30 @@
 #  README for Adam Zolyak 👱
 
 ## Overview
-A user manual for Adam Zolayk.  
+A read me for Adam Zolayk.  
 
 Inspried by https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategist-on-his-user-manual.html and https://www.atlassian.com/team-playbook/plays/my-user-manual.
 
 ## About Me
 
-Adam Zolyak is passionate about helping people to have more meaningful work and relationships in their lives.  Adam pursues this passion as a product manager, developer, maker, speaker, writer, and hacker. 
+Adam Zolyak is passionate about helping people to have the strength and wellness they need to be their authentic selves, live fufilling lives, and help others to do the same.  Adam pursues this passion as a product manager, developer, maker, hacker, artist, collaborator, speaker, writer, adventurer, experiencier, and human. 
 
 ## My Principles
 
 ### Bias to Action
-Achieve small incremental wins, learn by doing, and iterating as needed to achieve objectives; don’t wait for perfect answers, have strong opinions loosley held.
+Learn by doing, iterating, and achieve small incremental wins along the way; don’t wait for perfect answers before taking action, have strong opinions loosley held.
 
 ### Be Intentional
-Know your objectives and key results.  Say yes to the most valuable things and no or "maybe later" to the rest.  Be transparent and candid with other people so that your intentions are clear.
+Know your objectives and key results.  Say yes to the most valuable things and no or "maybe later" to the rest.  Be transparent and candid with other people so that your intentions are clear, and create shared objective and working agreements.
 
-### Win, Lose, and Learn Fast
-Have more opportunities for winning and learning by identifying a clear objectives and key results up front, identifying multiple options and experiment, limiting work in progress and focusing, working on the smallest possible increment needed, minimize queues / handoffs / dependencies, and getting feedback and measuring impact.
+### Diverge and Experiment 
+Seek multiple diverse and divergent points of view.  Form multiple hypothesises.  Identify multiple options and experiment.  Co-create and collaborate with other people.  
 
 ### Be Curious
-Lead through asking questions and starting with an egoless mindset to learn how to best serve others (co-workers, business, customers, people).  Identify multiple options and experiment to find the best path forward.  Be willing to fail and find joy in the learning therein.
+Lead through asking questions and starting with an egoless mindset to learn how to best serve.  Be willing to fail and find value in the learning therein.
 
 ### Be Present
-Be present with other people and with myself through active listening, active feeling, active being, and being slow and thoughtful before responding.
+Be present with other people and with me through active listening, active feeling, active being - especially being slow and thoughtful before responding and making space for other people.
 
 ### Be of Service to Others
 Connect with people to understand who they are, serving them and co-creating with them.  Treat everyone as they truely are - whole and capable.
@@ -90,6 +90,8 @@ I am an [Enneagram Type 7 with an 8 Wing](https://www.enneagraminstitute.com/typ
 
 * I need time to recharge my energy so I can focus on activities that require a lot of energy and attention.
 
+* I need other people in my live.  I'm always interested in connecting with new people to learn how we can potentially serve each other - as collaborators, as co-creators, as humans, etc.  
+
 ### How I learn best
 
 * I’m a visual learner. I like drawing, pictures, and videos.
@@ -110,7 +112,7 @@ My speaking and workshop history https://github.com/adamzolyak/speaking
 
 My public journaling (writing) https://medium.com/@adam.zolyak
 
-My software + hardware projects http://www.tinkurlab.com/
+My software + hardware projects http://www.tinkurlab.com/ and http://www.toolsforhumanity.io/
 
 My code https://github.com/adamzolyak and https://github.com/tinkurlab
 
