@@ -12,7 +12,7 @@ Inspired by https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategi
 
 Adam Zolyak is passionate about helping people to have the clarity, energy, and options they need to be live authentic fulfilling lives - having clarify of self, meaningful work, and meaningful community. Adam is currently focused on [Onward.ly](https://onward.ly/) and [Workit](https://www.workitworkit.com/).
 
-Adam pursues this passion as a full-stack maker, artist, collaborator, writer, life long learner, and human.
+Adam pursues this passion as a full-stack maker, artist, collaborator, writer, life-long learner, and human.
 
 ## My Principles
 
