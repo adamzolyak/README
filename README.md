@@ -1,16 +1,18 @@
-# README for Adam Zolyak 👨👨‍🔬👨‍💻🏃‍♂️⛷👨‍🔧🧙‍♂️
+# README for Adam Zolyak
 
 ## Overview
 
-A read me for Adam Zolyak.
+A read me for Adam Zolyak. Get to know who I am and how to work with me.
 
 Inspired by https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategist-on-his-user-manual.html and https://www.atlassian.com/team-playbook/plays/my-user-manual.
 
 ## About Me
 
+![Adam Z 2015 Headshot 500x500](https://user-images.githubusercontent.com/5940516/127383659-dd2fb566-9708-49d5-ae11-921cda83d50d.jpg)
+
 Adam Zolyak is passionate about helping people to have the clarity, energy, and options they need to be live authentic fulfilling lives - having clarify of self, meaningful work, and meaningful community. Adam is currently focused on [Onward.ly](https://onward.ly/) and [Workit](https://www.workitworkit.com/).
 
-Adam pursues this passion as a product manager, maker, artist, collaborator, speaker, life long learner, and human.
+Adam pursues this passion as a full-stack maker, artist, collaborator, writer, life long learner, and human.
 
 ## My Principles
 
@@ -109,7 +111,7 @@ From [Strengths Finder](https://www.strengthsmining.com/gallup-strengthsfinder/)
 
 I am an [Enneagram Type 7 with an 8 Wing](https://www.enneagraminstitute.com/type-7) and an INTJ.
 
-## More About Me
+## Learn More About Me
 
 My current focus is bring more humanity to our word through more humane technology via http://www.toolsforhumanity.io/
 
