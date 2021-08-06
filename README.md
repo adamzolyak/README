@@ -14,6 +14,25 @@ Adam Zolyak is passionate about helping people to have the clarity, connections,
 
 Adam pursues this passion as a full-stack maker, artist, collaborator, writer, life-long learner, and human.
 
+## Learn More About Me
+
+My current focus is bring more humanity to our word through more humane technology via http://www.toolsforhumanity.io/
+
+My speaking and workshop history https://github.com/adamzolyak/speaking
+
+My public journaling (writing) https://medium.com/@adam.zolyak and https://twitter.com/azolyak
+
+My software + hardware projects http://www.tinkurlab.com/ and http://www.toolsforhumanity.io/
+
+My code https://github.com/adamzolyak and https://github.com/tinkurlab
+
+My stickers https://www.redbubble.com/people/TinkurLab/shop (some of them anyway)
+
+My work history https://www.linkedin.com/in/azolyak
+
+My photos https://www.instagram.com/azolyak/ and https://www.flickr.com/photos/x-scooby/
+
+
 ## My Principles
 
 ### Bias to Action
@@ -111,20 +130,3 @@ From [Strengths Finder](https://www.strengthsmining.com/gallup-strengthsfinder/)
 
 I am an [Enneagram Type 7 with an 8 Wing](https://www.enneagraminstitute.com/type-7) and an INTJ.
 
-## Learn More About Me
-
-My current focus is bring more humanity to our word through more humane technology via http://www.toolsforhumanity.io/
-
-My speaking and workshop history https://github.com/adamzolyak/speaking
-
-My public journaling (writing) https://medium.com/@adam.zolyak and https://twitter.com/azolyak
-
-My software + hardware projects http://www.tinkurlab.com/ and http://www.toolsforhumanity.io/
-
-My code https://github.com/adamzolyak and https://github.com/tinkurlab
-
-My stickers https://www.redbubble.com/people/TinkurLab/shop (some of them anyway)
-
-My work history https://www.linkedin.com/in/azolyak
-
-My photos https://www.instagram.com/azolyak/ and https://www.flickr.com/photos/x-scooby/
