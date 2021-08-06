@@ -16,11 +16,11 @@ Adam pursues this passion as a full-stack maker, artist, collaborator, writer, l
 
 ## Learn More About Me
 
-My current focus is bring more humanity to our word through more humane technology via http://www.toolsforhumanity.io/
+My current focus is bring more humanity to our word through more humane technology via http://www.toolsforhumanity.io/.
 
 My speaking and workshop history https://github.com/adamzolyak/speaking
 
-My public journaling (writing) https://medium.com/@adam.zolyak and https://twitter.com/azolyak
+My public journaling (writing) https://toolsforhumanity.substack.com/ and https://medium.com/@adam.zolyak and https://twitter.com/azolyak
 
 My software + hardware projects http://www.tinkurlab.com/ and http://www.toolsforhumanity.io/
 
