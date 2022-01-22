@@ -63,7 +63,7 @@ Dare to bring the whole me to being and doing do, and dare to deeply connect wit
 
 Keep it light; smile, joke, play! It's an important part of being a human and connecting with other people. And it's a heck of a lot of fun!
 
-## Learn More
+## Working With Me
 
-[About Working With Me]()
+Learn more about [working with me](workingwithme.md).
 
