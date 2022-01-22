@@ -2,35 +2,31 @@
 
 ## Overview
 
-A read me for Adam Zolyak. Get to know who I am and how to work with me.
-
-Inspired by https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategist-on-his-user-manual.html and https://www.atlassian.com/team-playbook/plays/my-user-manual.
+A read me manual for Adam Zolyak. Get to know who I am and how to work with me. See the [inspiration for this readme](https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategist-on-his-user-manual.html).
 
 ## About Me
 
 ![Adam Z 2015 Headshot 500x500](https://user-images.githubusercontent.com/5940516/127383659-dd2fb566-9708-49d5-ae11-921cda83d50d.jpg)
 
-Adam Zolyak is passionate about helping people to have the clarity, connections, and options they need to be live authentic fulfilling lives - at work, at home, and everywhere in-between. Adam is currently focused on [Onward.ly](https://onward.ly/) and [Workit](https://www.workitworkit.com/).
-
-Adam pursues this passion as a full-stack maker, artist, collaborator, writer, life-long learner, and human.
+Adam's mission is to helping more people to have the purpose, connection, and options they need to be live authentic fulfilling lives - at work, at home, and everywhere in between. Adam is currently pursuing this mission through [Tools For Humanity](http://www.toolsforhumanity.io/) and [Workit](https://www.workitworkit.com/). Adam pursues this as a full-stack maker, artist, collaborator, writer, life-long learner, and human.
 
 ## Learn More About Me
 
-My current focus is bring more humanity to our word through more humane technology via http://www.toolsforhumanity.io/.
+I am exploring helpful and humane technology and tools at http://www.toolsforhumanity.io/. 
 
-My speaking and workshop history https://github.com/adamzolyak/speaking
+I am exploring the power of connection and pairing as a form of learning and support at https://www.workithq.com/.
 
-My public journaling (writing) https://toolsforhumanity.substack.com/ and https://medium.com/@adam.zolyak and https://twitter.com/azolyak
+I sharing my knowledge and wisdom through my [writing](https://toolsforhumanity.substack.com/), [speaking](https://github.com/adamzolyak/speaking), and maybe someday video filming.
 
-My software + hardware projects http://www.tinkurlab.com/ and http://www.toolsforhumanity.io/
+I figure out myself and my thinking through my [public journal Incremental Wisdom](http://incrementalwisdom.adamzolyak.com/wp-login.php), and sometimes [Twitter](https://twitter.com/azolyak).
 
-My code https://github.com/adamzolyak and https://github.com/tinkurlab
+I am a hacker of code, both [hardware projects](http://www.tinkurlab.com/) and [software projects](https://github.com/adamzolyak).
 
-My stickers https://www.redbubble.com/people/TinkurLab/shop (some of them anyway)
+I occasionally [design stickers](https://www.redbubble.com/people/TinkurLab/shop).
 
-My work history https://www.linkedin.com/in/azolyak
+I have worn a [variety of hats and done a variety of work](https://www.linkedin.com/in/azolyak) at tech companies and startups. 
 
-My photos https://www.instagram.com/azolyak/ and https://www.flickr.com/photos/x-scooby/
+I enjoy learning, cooking, [photography](https://www.instagram.com/azolyak/), and adventure. When not working, I can freqnetly be found [overlanding in my truck camper](https://www.instagram.com/banthaoverland/) or writing about [The Art of Adventure](https://artofadventure.substack.com/).
 
 
 ## My Principles
