@@ -1,10 +1,12 @@
-## Working With Me
+back to Adam's main [read me](README.md)
 
-### Conditions I like to work in
+# Working With Me
+
+## Conditions I like to work in
 
 - I like the right place for the different types of work. Open spaces for connecting and collaborating with other people, quiet places for focus work. I often go to a coffee shop, conference room, or work from home when I need to focus. I also often wear headphones listening to white noise or wordless music when I’m focusing. I also appreciate diversity of work - having a balance of collaborating, learning, doing, and recharging. Too much of any one thing zaps my energy.
 
-### The ways I like to receive feedback
+## The ways I like to receive feedback
 
 - I love feedback, finding new options to learn / grow and learn about new options so that I can be of better service to myself and others. Feedback can be hard to receive, but it's such a service to give it to someone. I sometimes need some time to process it (ex. give me a day or two).
 
@@ -14,7 +16,7 @@
 
 - I appreciate frequent feedback. Incremental feedback is often easier to process.
 
-### Things I need
+## Things I need
 
 - I need to deeply understand the why behind something before I do it.
 
@@ -24,7 +26,7 @@
 
 - I need to balance consuming with making. I need to balance being with other people with being with myself. I generally need balance.
 
-### How I learn best
+## How I learn best
 
 - I’m a visual learner. I like drawing, pictures, and videos.
 
@@ -32,7 +34,7 @@
 
 - I learn by doing and through experience. I believe learning is an iterative experiential process, so I prefer minimal planning before doing. When I'm not sure what to do, I do something.
 
-### Things I struggle with
+## Things I struggle with
 
 - Too many processes or activities that aren’t connected with a why or aren’t producing value. Anything that isn't directly achieving a goal is waste and should only occur if it's serving the outcome.
 
@@ -40,7 +42,7 @@
 
 - Too much "thinking about it" or "thinking through it" doesn't work for me. Some structure and thought is helpful, but learning by doing and co-creating with other people (especially the people I'm trying to serve) works best for me.
 
-## My Strengths
+# My Strengths
 
 From [Strengths Finder](https://www.strengthsmining.com/gallup-strengthsfinder/):
 
@@ -57,6 +59,6 @@ From [Strengths Finder](https://www.strengthsmining.com/gallup-strengthsfinder/)
 | 9    | Communication | Influencing           | People strong in the Communication theme generally find it easy to put their thoughts into words. They are good conversationalists and presenters.                                                                      |
 | 10   | Achiever      | Executing             | It is common for people with the Strengthsfinder Achiever theme to feel the need to start each day new and the accomplishments from yesterday no longer matter.                                                         |
 
-## My Type
+# My Enneagram
 
 I am an [Enneagram Type 7 with an 8 Wing](https://www.enneagraminstitute.com/type-7) and an INTJ.
