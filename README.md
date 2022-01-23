@@ -10,7 +10,7 @@ A read me manual for Adam Zolyak. Get to know who I am and how to work with me. 
 
 Adam's mission is to helping more people to have the purpose, connection, and options they need to be live authentic fulfilling lives - at work, at home, and everywhere in between. Adam is currently pursuing this mission through [Tools For Humanity](http://www.toolsforhumanity.io/) and [Workit](https://www.workitworkit.com/). Adam pursues this as a full-stack maker, artist, collaborator, writer, life-long learner, and human.
 
-## Learn More About Me
+## My Work and My Portfolio
 
 I am exploring helpful and humane technology and tools at http://www.toolsforhumanity.io/. 
 
