@@ -12,19 +12,17 @@ Adam's mission is to helping more people to have the purpose, connection, and op
 
 ## My Work and My Portfolio
 
-I am exploring helpful and humane technology and tools at http://www.toolsforhumanity.io/. 
+I am exploring the future of human potential + work. Learn more about my work at https://adamzolyak.com/. 
 
-I am exploring the power of connection and pairing as a form of learning and support at https://www.workithq.com/.
+I sharing my knowledge and wisdom through [writing](https://adamzolyak.com), [speaking](https://github.com/adamzolyak/speaking), and video.
 
-I sharing my knowledge and wisdom through my [writing](https://toolsforhumanity.substack.com/), [speaking](https://github.com/adamzolyak/speaking), and maybe someday video filming.
-
-I figure out myself and my thinking through my [public journal Incremental Wisdom](http://incrementalwisdom.adamzolyak.com/wp-login.php), and sometimes [Twitter](https://twitter.com/azolyak).
+I also sometimes think in public on [Twitter](https://twitter.com/azolyak).
 
 I am a hacker of code, both [hardware projects](http://www.tinkurlab.com/) and [software projects](https://github.com/adamzolyak).
 
 I occasionally [design stickers](https://www.redbubble.com/people/TinkurLab/shop).
 
-I have worn a [variety of hats and done a variety of work](https://www.linkedin.com/in/azolyak) at tech companies and startups. 
+I have worn a [variety of hats and done a variety of work](https://www.linkedin.com/in/azolyak) at tech companies - zero to one, scaling, and mature organizations of all sizes in B2B and B2C.
 
 I enjoy learning, cooking, [photography](https://www.instagram.com/azolyak/), and adventure. When not working, I can freqnetly be found [overlanding in my truck camper](https://www.instagram.com/banthaoverland/) or writing about [The Art of Adventure](https://artofadventure.substack.com/).
 
