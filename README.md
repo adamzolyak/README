@@ -2,7 +2,7 @@
 
 ## Overview
 
-A read me manual for Adam Zolyak. Get to know who I am and how to work with me. See the [inspiration for this readme](https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategist-on-his-user-manual.html).
+A read me manual for Adam Zolyak. Get to know who I am and how to work with me. See the [inspiration for this readme](https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategist-on-his-user-manual.html). Learn more about my projects at https://adamzolyak.com/.
 
 ## About Me
 
@@ -12,7 +12,7 @@ Adam's mission is to helping more people to have the purpose, connection, and op
 
 ## My Work and My Portfolio
 
-I am exploring the future of human potential + work. Learn more about my work at https://adamzolyak.com/. 
+I am exploring the future of human potential + work. Learn more about my projects at https://adamzolyak.com/. 
 
 I sharing my knowledge and wisdom through [writing](https://adamzolyak.com), [speaking](https://github.com/adamzolyak/speaking), and video.
 
